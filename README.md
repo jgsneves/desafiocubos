@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://raw.githubusercontent.com/jgsneves/eCommerceCsharp/master/Capturar.PNG" />
+<img src="https://raw.githubusercontent.com/jgsneves/desafiocubos/master/Capturar.PNG" />
 </h1>
 
 <h3 align="center">
