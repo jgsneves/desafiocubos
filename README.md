@@ -8,11 +8,11 @@ Projeto desenvolvido com a intenção de participar do processo seletivo para es
 
 </h3>
 
-## **:memo:  __O QUE É ESTE PROJETO?**
+## **:memo:  O QUE É ESTE PROJETO?**
 
 Trata-se de uma aplicação front-end para consumir a API do site IMDB. Um site responsivo de acordo com a largura da tela do dispositivo do usuário e com o layout imposto pelo designer do desafio. No topo do site há um input que, a medida que o usuário digita o nome do filme, os elementos correspondentes a cada filme vai renderizando na tela, exibindo a pontuação do filme, foto-poster, título do filme, data de lançamento e descrição.
 
-## **:computer:  __TECNOLOGIAS**
+## **:computer:  TECNOLOGIAS**
 
 
 #### **Front-end do site:**
